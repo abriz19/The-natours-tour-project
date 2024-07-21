@@ -1,0 +1,165 @@
+[
+    {
+        "name": "City Tour",
+        "duration": 3,
+        "maxGroupSize": 20,
+        "difficulty": "medium",
+        "price": 150,
+        "ratingsAverage": 4.7,
+        "ratingsQuantity": 15,
+        "priceDiscount": 20,
+        "summary": "Explore the city's top attractions and landmarks.",
+        "description": "Join us for a guided tour of the city where you'll visit iconic sites and learn about its rich history.",
+        "imageCover": "https://example.com/city-tour-cover.jpg",
+        "images": [
+          "https://example.com/image1.jpg",
+          "https://example.com/image2.jpg",
+          "https://example.com/image3.jpg"
+        ],
+        "createdAt": "2022-05-10T10:30:00.000Z",
+        "startDate": [
+          "2022-06-01T09:00:00.000Z",
+          "2022-06-15T09:00:00.000Z",
+          "2022-07-01T09:00:00.000Z"
+        ]
+      },
+
+      {
+        "name": "Mountain Hike",
+        "duration": 5,
+        "maxGroupSize": 10,
+        "difficulty": "easy",
+        "price": 250,
+        "ratingsAverage": 4.8,
+        "ratingsQuantity": 10,
+        "priceDiscount": null,
+        "summary": "Embark on an adventurous hike through breathtaking mountain trails.",
+        "description": "This challenging hike takes you through stunning landscapes and offers amazing views.",
+        "imageCover": "https://example.com/mountain-hike-cover.jpg",
+        "images": [
+          "https://example.com/image4.jpg",
+          "https://example.com/image5.jpg"
+        ],
+        "createdAt": "2022-06-20T14:45:00.000Z",
+        "startDate": [
+          "2022-08-01T08:00:00.000Z",
+          "2022-08-15T08:00:00.000Z"
+        ]
+      },
+
+      {
+        "name": "Beach Retreat",
+        "duration": 7,
+        "maxGroupSize": 30,
+        "difficulty": "hard",
+        "price": 500,
+        "ratingsAverage": 4.5,
+        "ratingsQuantity": 5,
+        "priceDiscount": null,
+        "summary": "Relax and unwind on the beautiful sandy beaches.",
+        "description": "Indulge in a week-long beach vacation with plenty of sun, sand, and fun activities.",
+        "imageCover": "https://example.com/beach-retreat-cover.jpg",
+        "images": [
+          "https://example.com/image6.jpg",
+          "https://example.com/image7.jpg"
+        ],
+        "createdAt": "2022-07-05T12:00:00.000Z",
+        "startDate": [
+          "2022-09-01T12:00:00.000Z",
+          "2022-09-15T12:00:00.000Z",
+          "2022-10-01T12:00:00.000Z"
+        ]
+      },
+
+      {
+        "name": "Cultural Tour",
+        "duration": 4,
+        "maxGroupSize": 15,
+        "difficulty": "easy",
+        "price": 200,
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 8,
+        "priceDiscount": null,
+        "summary": "Immerse yourself in the local culture and traditions.",
+        "description": "Experience the vibrant cultural scene of the city through visits to museums, art galleries, and historic sites.",
+        "imageCover": "https://example.com/cultural-tour-cover.jpg",
+        "images": [
+          "https://example.com/image8.jpg"
+        ],
+        "createdAt": "2022-08-12T09:30:00.000Z",
+        "startDate": [
+          "2022-10-01T10:00:00.000Z",
+          "2022-10-15T10:00:00.000Z",
+          "2022-11-01T10:00:00.000Z"
+        ]
+      },
+
+      {
+        "name": "Astonishing Tour",
+        "duration": 4,
+        "maxGroupSize": 15,
+        "difficulty": "medium",
+        "price": 200,
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 8,
+        "priceDiscount": null,
+        "summary": "Immerse yourself in the local culture and traditions.",
+        "description": "Experience the vibrant cultural scene of the city through visits to museums, art galleries, and historic sites.",
+        "imageCover": "https://example.com/cultural-tour-cover.jpg",
+        "images": [
+          "https://example.com/image8.jpg"
+        ],
+        "createdAt": "2022-08-12T09:30:00.000Z",
+        "startDate": [
+          "2022-10-01T10:00:00.000Z",
+          "2022-10-15T10:00:00.000Z",
+          "2022-11-01T10:00:00.000Z"
+        ]
+      },
+
+      {
+        "name": "The Ultimate Tour",
+        "duration": 4,
+        "maxGroupSize": 15,
+        "difficulty": "hard",
+        "price": 200,
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 8,
+        "priceDiscount": null,
+        "summary": "Immerse yourself in the local culture and traditions.",
+        "description": "Experience the vibrant cultural scene of the city through visits to museums, art galleries, and historic sites.",
+        "imageCover": "https://example.com/cultural-tour-cover.jpg",
+        "images": [
+          "https://example.com/image8.jpg"
+        ],
+        "createdAt": "2022-08-12T09:30:00.000Z",
+        "startDate": [
+          "2022-10-01T10:00:00.000Z",
+          "2022-10-15T10:00:00.000Z",
+          "2022-11-01T10:00:00.000Z"
+        ]
+      },
+
+      {
+        "name": "Historical Tour",
+        "duration": 3,
+        "maxGroupSize": 10,
+        "difficulty": "easy",
+        "price": 300,
+        "ratingsAverage": 4.3,
+        "ratingsQuantity": 8,
+        "priceDiscount": null,
+        "summary": "Immerse yourself in the local culture and traditions.",
+        "description": "Experience the vibrant cultural scene of the city through visits to museums, art galleries, and historic sites.",
+        "imageCover": "https://example.com/cultural-tour-cover.jpg",
+        "images": [
+          "https://example.com/image8.jpg"
+        ],
+        "createdAt": "2022-08-12T09:30:00.000Z",
+        "startDate": [
+          "2022-10-01T10:00:00.000Z",
+          "2022-10-15T10:00:00.000Z",
+          "2022-11-01T10:00:00.000Z"
+        ]
+      }
+]

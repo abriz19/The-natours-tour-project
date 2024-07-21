@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Cultural Exploration",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "slug": "cultural-exploration",
+    "secretTour": false,
+    "difficulty": "medium",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 42,
+    "price": 1799,
+    "priceDiscount": 0,
+    "summary": "Immerse yourself in the rich cultural heritage of diverse destinations.",
+    "description": "Experience the traditions, history, and art of different cultures on this enlightening journey.",
+    "guides": ["653678e451c055ce3788682c", "6537682369ef58cf1106ef61"],
+    "imageCover": "image-cover-4.jpg",
+    "images": ["image-7.jpg", "image-8.jpg"],
+    "createdAt": "2023-10-30T08:00:00.000Z",
+    "startDate": ["2023-11-05T08:00:00.000Z", "2023-11-15T08:00:00.000Z"],
+    "startLocation": {
+        "type": "Point",
+        "coordinates": [38.8765, -74.5432],
+        "address": "456 Oak St, City, Country",
+        "description": "Meeting point for the cultural exploration"
+    },
+    "locations": [
+        {
+            "_id": "617f2d3a8f8b8a001f7c51b1",
+            "type": "Point",
+            "coordinates": [38.9876, -74.6543],
+            "address": "789 Museum Ave, City, Country",
+            "description": "Day 1: Visit renowned museums",
+            "day": 1
+        },
+        {
+            "_id": "617f2d3a8f8b8a001f7c51b2",
+            "type": "Point",
+            "coordinates": [38.0987, -74.7654],
+            "address": "321 Historic St, City, Country",
+            "description": "Day 2: Explore historical landmarks",
+            "day": 2
+        }
+    ]
+},
+
+{
+  "name": "Thrilling Trek",
+  "duration": 8,
+  "maxGroupSize": 10,
+  "slug": "thrilling-trek",
+  "secretTour": false,
+  "difficulty": "difficult",
+  "ratingsAverage": 4.9,
+  "ratingsQuantity": 73,
+  "price": 1599,
+  "priceDiscount": 1399,
+  "summary": "Embark on a thrilling trek through rugged terrains and breathtaking landscapes.",
+  "description": "Challenge yourself and witness nature's magnificence on this adrenaline-fueled journey.",
+  "guides": ["653386ea4ba61b0e8c649805", "653619694fa568068e4c0468"],
+  "imageCover": "image-cover-5.jpg",
+  "images": ["image-9.jpg", "image-10.jpg"],
+  "createdAt": "2023-10-30T08:00:00.000Z",
+  "startDate": ["2023-11-25T08:00:00.000Z", "2023-12-10T08:00:00.000Z"],
+  "startLocation": {
+      "type": "Point",
+      "coordinates": [52.3456, -97.6543],
+      "address": "987 Pine St, City, Country",
+      "description": "Gather at the starting point for the thrilling trek"
+  },
+  "locations": [
+      {
+          "_id": "617f2d3a8f8b8a001f7c51b3",
+          "type": "Point",
+          "coordinates": [52.4567, -97.7654],
+          "address": "654 Summit Rd, City, Country",
+          "description": "Day 1: Conquer towering peaks",
+          "day": 1
+      },
+      {
+          "_id": "617f2d3a8f8b8a001f7c51b4",
+          "type": "Point",
+          "coordinates": [52.5678, -97.8765],
+          "address": "321 Canyon St, City, Country",
+          "description": "Day 2: Navigate through deep canyons",
+          "day": 2
+      }
+  ]
+},
+
+{
+  "name": "Astonishing Trek",
+  "duration": 8,
+  "maxGroupSize": 10,
+  "slug": "thrilling-trek",
+  "secretTour": false,
+  "difficulty": "difficult",
+  "ratingsAverage": 4.9,
+  "ratingsQuantity": 73,
+  "price": 1599,
+  "priceDiscount": 1399,
+  "summary": "Embark on a thrilling trek through rugged terrains and breathtaking landscapes.",
+  "description": "Challenge yourself and witness nature's magnificence on this adrenaline-fueled journey.",
+  "guides": ["653386ea4ba61b0e8c649805", "653619694fa568068e4c0468"],
+  "imageCover": "image-cover-5.jpg",
+  "images": ["image-9.jpg", "image-10.jpg"],
+  "createdAt": "2023-10-30T08:00:00.000Z",
+  "startDate": ["2023-11-25T08:00:00.000Z", "2023-12-10T08:00:00.000Z"],
+  "startLocation": {
+      "type": "Point",
+      "coordinates": [52.3456, -97.6543],
+      "address": "987 Pine St, City, Country",
+      "description": "Gather at the starting point for the thrilling trek"
+  },
+  "locations": [
+      {
+          "_id": "617f2d3a8f8b8a001f7c51g3",
+          "type": "Point",
+          "coordinates": [52.4567, -97.7654],
+          "address": "654 Summit Rd, City, Country",
+          "description": "Day 1: Conquer towering peaks",
+          "day": 1
+      },
+      {
+          "_id": "617f2d3a8f8b8a001f7c51b9",
+          "type": "Point",
+          "coordinates": [52.5678, -97.8765],
+          "address": "321 Canyon St, City, Country",
+          "description": "Day 2: Navigate through deep canyons",
+          "day": 2
+      }
+  ]
+}
+]
