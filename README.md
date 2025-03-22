@@ -1,42 +1,63 @@
-Course Material and FAQ for my Complete Node.js, Express and MongoDB Bootcamp
-This repo contains starter files and the finished project files for all the projects contained in the course (complete repo size is 288MB).
+# Complete Node.js, Express, and MongoDB Bootcamp Project
 
-Use starter code to start each section, and final code to compare it with your own code whenever something doesn't work!
+## Overview
+This repository contains the starter files and finished project files for the course I followed to learn **Node.js, Express, and MongoDB**. The total repo size is approximately **288MB**.
 
-Plus, I made all the course slides available for download, to make it easier to follow along the theory videos.
+I used the **starter code** to begin each section and compared my code with the **final project files** whenever I encountered issues.
 
-👇 Please read the following Frequently Asked Questions (FAQ) carefully before starting the course 👇
+Additionally, the **course slides** are available for download, making it easier to follow along with theoretical concepts.
 
-FAQ
-Q1: How do I download the files?
-A: If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option.
+## 📌 Frequently Asked Questions (FAQ)
 
-Q2: I'm stuck in one of the projects. Where do I get help?
-A: Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please post a detailed description of the problem to the Q&A area of that video over at Udemy, along with a codepen containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
+### ❓ Q1: How do I download the files?
+**A:** If you're new to GitHub and just want to download the entire codebase, click on the green `Code` button and select `Download ZIP`.
 
-Q3: What VSCode theme are you using?
-A: I use Oceanic Next (dimmed bg) for all my coding and course production. Here is my complete VSCode setup.
+### ❓ Q2: I'm stuck on a project. Where can I get help?
+**A:**
+- First, try debugging the issue on your own by comparing your code with the final project files.
+- If you're still stuck, post a **detailed description** of the problem in the **Udemy Q&A section** for the corresponding video.
+- Include relevant **code snippets** or a **link** to your code repository.
 
-Q4: Can I see a final version of the course projects?
-A: Absolutely! The main project is Natours (it even got its own domain 😎). You can log in with laura@example.com and password test1234. There is also an API at /api, with documentation available here (incomplete). The small Node.js introduction project is Node Farm.
+### ❓ Q3: What VSCode theme are you using?
+**A:** I used **Oceanic Next (dimmed bg)** for coding throughout the course. My full **VSCode setup** includes useful extensions for **Node.js development**.
 
-Q5: Videos don't load, can you fix it?
-A: Unfortunately, there is nothing I can do about it. The course is hosted on Udemy, and sometimes they have technical issues like this. Please just come back a bit later or contact their support team.
+### ❓ Q4: Can I see a final version of the course projects?
+**A:** Yes! The main project, **Natours**, is available online. You can log in with:
+- **Email:** `laura@example.com`
+- **Password:** `test1234`
 
-Q6: Videos are blurred / have low quality, can you fix it?
-A: Please open video settings and change the quality from 'Auto' to another value, for example 720p. If that doesn't help, please contact the Udemy support team.
+There's also an **API** at `/api`, with partial documentation available. The introductory **Node.js project** is **Node Farm**.
 
-Q7: Are the videos downloadable?
-A: Yes! I made all videos downloadable from Udemy so you can learn even without an internet connection. To download a video, use the settings icon in the right bottom corner of the video player. Videos have to be downloaded individually.
+### ❓ Q5: Videos won't load—can you fix this?
+**A:** Unfortunately, I can't do anything about this. The course is hosted on **Udemy**, and their platform sometimes experiences technical issues. Try refreshing the page or **contact Udemy support**.
 
-Q8: I want to put the project in my portfolio. Is that allowed?
-A: Absolutely! Just make sure you actually built it yourself by following the course, and that you understand what you did. What is not allowed is that you create your own course/videos/articles based on this course's content!
+### ❓ Q6: Why are the videos blurry or low quality?
+**A:**
+- Change the video quality settings from `Auto` to a higher resolution, such as `720p`.
+- If this doesn't help, **contact Udemy support**.
 
-Q9: I love your courses and want to get updates on new courses. How?
-A: First, you can subscribe to my email list at my website. Plus, I make important announcements on twitter @jonasschmedtman, so you should definitely follow me there 🔥
+### ❓ Q7: Can I download the course videos?
+**A:** Yes! Udemy allows video downloads for **offline viewing**. Click on the `settings` icon in the bottom-right corner of the video player to download them **individually**.
 
-Q10: How do I get my certificate of completion?
-A: A certificate of completion is provided by Udemy after you complete 100% of the course. After completing the course, just click on the "Your progress" indicator in the top right-hand corner of the course page. If you want to change your name on the certificate, please contact the Udemy support team.
+### ❓ Q8: Can I include this project in my portfolio?
+**A:** Yes! Just make sure that:
+- You fully **understand the project** and built it yourself while following the course.
+- You **do not** use this material to create your own courses, videos, or blog articles.
 
-Q11: Do you accept pull requests?
-A: No, for the simple reason that I want this repository to contain the exact same code that is shown in the videos. However, please feel free to add an issue if you found one.
+### ❓ Q9: How can I stay updated with similar courses?
+**A:**
+- Subscribe to the course creator’s **email list** on their website.
+- Follow them on **Twitter**: [@jonasschmedtman](https://twitter.com/jonasschmedtman) for updates.
+
+### ❓ Q10: How do I get my certificate of completion?
+**A:**
+- Udemy provides a **certificate** once you complete **100% of the course**.
+- Click on the `Your progress` indicator in the top-right corner of the **course page** to access it.
+- If you need to **change your name** on the certificate, **contact Udemy support**.
+
+### ❓ Q11: Do you accept pull requests?
+**A:** No, to ensure the **code remains exactly** as shown in the course. However, feel free to **open an issue** if you find any errors.
+
+---
+I highly recommend this course for anyone looking to master **Node.js, Express, and MongoDB**. It was a great learning experience, and I'm excited to apply these skills to real-world projects! 🚀
+
